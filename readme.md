@@ -14,7 +14,7 @@
 <h3 style="background-color:#f3993e;color:#fff;padding:15px; border-radius:10px;margin-bottom:0">Recap Express</h3>
 <div style="display:flex;align-items:center">
 <img src="assets/express.png" style="height:200px; object-fit:contain" />
-<p style="text-align:justify; margin-left:10px"">Express merupakan framework minimal untuk pembuatan web pada nodejs yang sangat populer. Dengan menggunakan express ini kita bisa membuat REST API dengan sangat cepat ataupun kita bisa membuat aplikasi web Server Side Rendering dengan menggunakan template engine tertentu, seperti pug, ejs, dan lain lain.</p>
+<p style="text-align:justify; margin-left:10px">Express merupakan framework minimal untuk pembuatan web pada nodejs yang sangat populer. Dengan menggunakan express ini kita bisa membuat REST API dengan sangat cepat ataupun kita bisa membuat aplikasi web Server Side Rendering dengan menggunakan template engine tertentu, seperti pug, ejs, dan lain lain.</p>
 </div>
 
 <h3 style="background-color:#f3993e;color:#fff;padding:15px; border-radius:10px;margin-bottom:0">Recap Sequelize</h3>
