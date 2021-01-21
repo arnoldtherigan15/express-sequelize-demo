@@ -163,10 +163,10 @@ sekaligus dengan menggunakan <span style="background-color:#f3993e;color:#fff">s
   bahwa pada struktur tabel memiliki <span style="background-color:#f3993e;color:#fff">id</span>, namun pada saat kita menggunakan
   <span style="background-color:#f3993e;color:#fff">sequelize</span> kita tidak perlu menuliskan hal tersebut, karena akan dibuat
   secara otomatis. Sehingga berdasarkan info ini, maka pada tabel <span style="background-color:#f3993e;color:#fff">Pokemons</span>,
-  yang butuh dibuat adalah <span style="background-color:#f3993e;color:#fff">name</span>, <span style="background-color:#f3993e;color:#fff">type<span>, <span style="background-color:#f3993e;color:#fff">imgURL</span></li>
+  yang butuh dibuat adalah <span style="background-color:#f3993e;color:#fff">name</span>, <span style="background-color:#f3993e;color:#fff">type</span>, <span style="background-color:#f3993e;color:#fff">imgURL</span></li>
 <li>Harus diingat juga ketika membuat model dan tables / migrations, perhatikan
   bahwa nama pada Model = <span style="background-color:#f3993e;color:#fff">Singular</span> dan nama table = <span style="background-color:#f3993e;color:#fff">Plurals</span>.
-  <span style="background-color:#f3993e;color:#fff">Jangan sampai terbalik yah !</span</li>
+  <span style="background-color:#f3993e;color:#fff">Jangan sampai terbalik yah !</span></li>
 <li>Sehingga, berdasarkan data ini, maka yang harus diketik adalah 
   <span style="background-color:#f3993e;color:#fff">npx sequelize-cli model:generate --name Pokemon --attributes "name:String,type:String,imgURL:String",phone:String,address:String</span></li>
 <li>Setelah perintah di atas diketik, maka akan terbentuk sebuah file pada 
@@ -178,7 +178,7 @@ sekaligus dengan menggunakan <span style="background-color:#f3993e;color:#fff">s
   baru dibuat oleh <span style="background-color:#f3993e;color:#fff">sequelize</span>, contoh perubahan untuk mengubah async / await
   menjadi <span style="background-color:#f3993e;color:#fff">promise</span> dapat dilihat pada Code 00</li>
 <li>Selanjutnya, kita akan menjalankan perintah untuk membuat tabel ini dengan 
-  menjalankan perintah <span style="background-color:#f3993e;color:#fff">npx sequelizecli db:migrate</span></li>
+  menjalankan perintah <span style="background-color:#f3993e;color:#fff">npx sequelize-cli db:migrate</span></li>
 <li>Setelah menjalankan perintah ini, maka dapat dilihat pada postgresql bahwa 
   tabel <span style="background-color:#f3993e;color:#fff;">Pokemons</span> sudah terbentuk.</li>
 
