@@ -178,12 +178,13 @@ sekaligus dengan menggunakan <span style="background-color:#f3993e;color:#fff">s
   baru dibuat oleh <span style="background-color:#f3993e;color:#fff">sequelize</span>, contoh perubahan untuk mengubah async / await
   menjadi <span style="background-color:#f3993e;color:#fff">promise</span> dapat dilihat pada Code 00</li>
 <li>Selanjutnya, kita akan menjalankan perintah untuk membuat tabel ini dengan 
-  menjalankan perintah <span style="background-color:#f3993e;color:#fff">npx sequelize-cli db:migrate</span></li>
+  menjalankan perintah <span style="background-color:#f3993e;color:#fff">npx sequelizecli db:migrate</span></li>
 <li>Setelah menjalankan perintah ini, maka dapat dilihat pada postgresql bahwa 
   tabel <span style="background-color:#f3993e;color:#fff;">Pokemons</span> sudah terbentuk.</li>
 
 </ul>
 </div>
+
 
 
 ### Code 00
