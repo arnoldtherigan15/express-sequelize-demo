@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "type": "Grass",
+        "imgURL": "https://img.pokemondb.net/sprites/bank/normal/bulbasaur.png"
+    },
+    {
+        "id": 2,
+        "name": "Charmander",
+        "type": "Fire",
+        "imgURL": "https://img.pokemondb.net/sprites/bank/normal/charmander.png"
+    },
+    {
+        "id": 3,
+        "name": "Pikachu",
+        "type": "Electric",
+        "imgURL": "https://img.pokemondb.net/sprites/bank/normal/pikachu.png"
+    },
+    {
+        "id": 4,
+        "name": "Nidorino",
+        "type": "Poison",
+        "imgURL": "https://img.pokemondb.net/sprites/bank/normal/nidorino.png"
+    },
+    {
+        "id": 5,
+        "name": "Ninetales",
+        "type": "Fire",
+        "imgURL": "https://img.pokemondb.net/sprites/bank/normal/ninetales.png"
+    }
+]
