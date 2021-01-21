@@ -183,7 +183,8 @@ sekaligus dengan menggunakan <span style="background-color:#f3993e;color:#fff">s
 </ul>
 </div>
 
-#### Code 00
+<p>Code 00</p>
+
 ```javascript
 'use strict';
 module.exports = {
@@ -228,7 +229,9 @@ langkah-langkahnya adalah:</p>
 </ul>
 </div>
 
-#### Code 01
+
+<p>Code 01</p>
+
 ```javascript
 'use strict';
 // 01.
@@ -275,6 +278,7 @@ module.exports = {
 };
 ```
 
+
 <h3 style="background-color:#f3993e;color:#fff;padding:15px;">
 Langkah 5 - Membuat app.js, routes, dan Controller</h3>
 <p style="font-style:italic">Sebelumnya, kita akan membuat sebuah folder bernama <span style="background-color:#f3993e;color:#fff">controllers</span> terlebih
@@ -294,6 +298,7 @@ dahulu dan membuat sebuah file <span style="background-color:#f3993e;color:#fff"
 </div>
 
 <p style="margin-top:20px">Sehingga pada file <span style="background-color:#f3993e;color:#fff">app.js</span>, akan terbentuk kode sebagai berikut</p>
+
 
 ```javascript
 const express = require('express');
