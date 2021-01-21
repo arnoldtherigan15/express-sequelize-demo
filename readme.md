@@ -156,6 +156,7 @@ Langkah 3 - Membuat tabel Identities</h3>
 <p style="font-style:italic">
 Selanjutnya adalah kita akan membuat model <span style="background-color:#f3993e;color:#fff">Pokemon</span> dengan tabel <span style="background-color:#f3993e;color:#fff">Pokemons</span>
 sekaligus dengan menggunakan <span style="background-color:#f3993e;color:#fff">sequelize</span>. Caranya adalah dengan:</p>
+
 <div style="background-color:#f7f8fb;padding:10px">
 <ul>
 <li>Melihat ulang terlebih dahulu struktur tabel yang dibutuhkan, perhatikan 
@@ -179,9 +180,11 @@ sekaligus dengan menggunakan <span style="background-color:#f3993e;color:#fff">s
 <li>Selanjutnya, kita akan menjalankan perintah untuk membuat tabel ini dengan 
   menjalankan perintah <span style="background-color:#f3993e;color:#fff">npx sequelize-cli db:migrate</span></li>
 <li>Setelah menjalankan perintah ini, maka dapat dilihat pada postgresql bahwa 
-  tabel <span style="background-color:#f3993e;color:#fff">Pokemons</span> sudah terbentuk.</li>
+  tabel <span style="background-color:#f3993e;color:#fff;">Pokemons</span> sudah terbentuk.</li>
+
 </ul>
 </div>
+
 
 ### Code 00
 ```javascript
