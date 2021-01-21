@@ -183,8 +183,7 @@ sekaligus dengan menggunakan <span style="background-color:#f3993e;color:#fff">s
 </ul>
 </div>
 
-<p>Code 00</p>
-
+### Code 00
 ```javascript
 'use strict';
 module.exports = {
@@ -225,13 +224,12 @@ langkah-langkahnya adalah:</p>
   mengedit file tersebut. Kode yang akan ditulis dapat dilihat pada 
   Code 01</li>
 <li>Setelah menuliskan kode tersebut, kita akan melakukan *seeding* dengan cara 
-  mengetik <span style="background-color:#f3993e;color:#fff">npx sequelize db:seed:all</span</li>
+  mengetik <span style="background-color:#f3993e;color:#fff">npx sequelize db:seed:all</span></li>
 </ul>
 </div>
 
 
-<p>Code 01</p>
-
+#### Code 01
 ```javascript
 'use strict';
 // 01.
