@@ -152,7 +152,7 @@ dengan cara:</p>
 </div>
 
 <h3 style="background-color:#f3993e;color:#fff;padding:15px;">
-Langkah 3 - Membuat tabel Identities</h3>
+Langkah 3 - Membuat tabel Pokemons</h3>
 <p style="font-style:italic">
 Selanjutnya adalah kita akan membuat model <span style="background-color:#f3993e;color:#fff">Pokemon</span> dengan tabel <span style="background-color:#f3993e;color:#fff">Pokemons</span>
 sekaligus dengan menggunakan <span style="background-color:#f3993e;color:#fff">sequelize</span>. Caranya adalah dengan:</p>
